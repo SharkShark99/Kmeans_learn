@@ -81,4 +81,4 @@ if __name__ == '__main__':
     plt.show()
 
 Git is a  ++ distributed version control system.
-Git is free software.
+Git is free software under the GPL.
