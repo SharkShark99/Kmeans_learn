@@ -79,3 +79,6 @@ if __name__ == '__main__':
     plt.xlabel("x")
     plt.ylabel("y")
     plt.show()
+
+Git is a  ++ distributed version control system.
+Git is free software.
